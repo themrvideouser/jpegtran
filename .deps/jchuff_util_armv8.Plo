@@ -1,1 +1,1 @@
-# dummy
+jchuff_util_armv8.lo: jchuff_util_armv8.S
